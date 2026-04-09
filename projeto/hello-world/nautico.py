@@ -1,1 +1,1 @@
-print("Bem-vindos ao Santa Cruz!")
+print("Bem-vindos à sede do Clube Náutico Capibaribe!")
