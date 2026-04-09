@@ -1,0 +1,1 @@
+print("Bem-vindos à sede do Clube Náutico Capibaribe!")
