@@ -1,0 +1,3 @@
+Todas as branches foram mergeadas via Pull Request
+Apenas a branch que resolve o conflito precisou de alteração manual no GitHub
+Todas as branches foram commitadas pelo terminal
